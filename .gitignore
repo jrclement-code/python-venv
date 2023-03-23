@@ -173,6 +173,7 @@ celerybeat.pid
 
 #directories
 .vscode
+charts/*.png
 
 #files
 requirements.txt
