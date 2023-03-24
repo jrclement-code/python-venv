@@ -175,9 +175,6 @@ celerybeat.pid
 .vscode
 charts/*.png
 
-#files
-requirements.txt
-
 # Environments
 .env
 .venv
